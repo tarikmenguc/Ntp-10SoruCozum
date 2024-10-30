@@ -1,0 +1,2 @@
+C:\Users\M.Tarık MENGÜÇ\source\repos\ntp10soruodev\ntp10soruodev\obj\Debug\ntp10soruodev.csproj.AssemblyReference.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\ntp10soruodev\ntp10soruodev\obj\Debug\ntp10soruodev.csproj.CoreCompileInputs.cache
